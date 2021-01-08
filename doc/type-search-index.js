@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.jsu.hyd.Frm","l":"ScoreMSFrm"},{"l":"所有类","url":"allclasses-index.html"}]
